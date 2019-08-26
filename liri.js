@@ -112,6 +112,11 @@ function movie() {
 };
 
 // do-what-it-says function
-// function doIt(){
-
-// }
+function doIt(){
+    fs.readFile("random.txt", "utf8", function (err, data){
+        data = data.split(",");
+        var userInput = data[0];
+        var userQuery = data[1];
+        console.log("node liri.js " + userInput, userQuery);
+    });
+}
