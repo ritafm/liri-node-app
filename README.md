@@ -30,3 +30,7 @@ And finally is "do-what-it=says":
 
 ![liri js - liri-node-app - Visual Studio Code 2019-09-06 08-35-16_Moment(6)](https://user-images.githubusercontent.com/48167135/64441959-c8d1da00-d083-11e9-8bf6-7e51ef5a7010.jpg)
 
+Here is a short video showing the app in action:
+
+https://drive.google.com/file/d/19Ok6YUnSSmUGINxfA5tMUACWe1qVfTey/view
+
