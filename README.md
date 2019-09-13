@@ -22,7 +22,11 @@ The command "spotify-this-song" is displayed here:
 
 ![liri js - liri-node-app - Visual Studio Code 2019-09-06 08-35-16_Moment(4)](https://user-images.githubusercontent.com/48167135/64441956-c8394380-d083-11e9-9e92-c992ae8a9218.jpg)
 
+This next screenshot shows "movie-this":
 
 ![liri js - liri-node-app - Visual Studio Code 2019-09-06 08-35-16_Moment(5)](https://user-images.githubusercontent.com/48167135/64441957-c8394380-d083-11e9-884d-a630f8b16e38.jpg)
+
+And finally is "do-what-it=says":
+
 ![liri js - liri-node-app - Visual Studio Code 2019-09-06 08-35-16_Moment(6)](https://user-images.githubusercontent.com/48167135/64441959-c8d1da00-d083-11e9-8bf6-7e51ef5a7010.jpg)
 
